@@ -1,4 +1,4 @@
-# Notice
+# Notice Fork from Original
 
 ## This library was developed as part of the [PrusaSlicer](https://github.com/prusa3d/PrusaSlicer) project. 
 **You can find the original version [here](https://github.com/prusa3d/PrusaSlicer/tree/master/src/libnest2d).**
